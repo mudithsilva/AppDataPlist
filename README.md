@@ -1,5 +1,5 @@
 # AppDataPlist
-Simple Swift file for store and retrieve data by using .plist file
+Simple Swift file for store and retrieve data for Codable Data Types
 
 ## Installation
 
