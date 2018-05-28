@@ -26,9 +26,12 @@ Data type should be in Codable. eg:-
 
 First you need to create a .plist file 
 
+![AppDataPlist](Images/Add plist file.png)
 
 
 Change the file name on ``AppDataPlist`` file.
+
+![AppDataPlist](Images/Add plist name.png)
 
 
 #### Save Data on plist
