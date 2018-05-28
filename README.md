@@ -22,18 +22,6 @@ Data type should be in Codable. eg:-
     }
 ```
 
-#### Create .plist file
-
-First you need to create a .plist file 
-
-![AppDataPlist](Images/Add_plist_file.png)
-
-
-Change the file name on ``AppDataPlist`` file.
-
-![AppDataPlist](Images/Add_plist_name.png)
-
-
 #### Save Data on plist
 
 Use `` AppDataPlist.saveUserInformation(info: <#T##Decodable & Encodable#>, key: <#T##UserData.RawValue#>)`` for save data. eg :-
