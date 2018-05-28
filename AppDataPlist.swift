@@ -49,3 +49,12 @@ class AppDataPlist {
     
 }
 
+enum UserData: String {
+    
+    case postInfo = "POSTINFO"
+    case userInfo = "USERINFO"
+    case commentInfo = "COMMENTINFO"
+    
+    /////// Add Custom name here //////////
+}
+
