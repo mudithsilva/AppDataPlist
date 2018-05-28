@@ -1,5 +1,5 @@
 # AppDataPlist
-Simple Swift file for store and retrieve data for Codable Data Types
+Simple Swift file for store and retrieve property lists.
 
 ## Installation
 
